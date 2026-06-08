@@ -1,41 +1,73 @@
-# Hi, I'm Ashik A 👋
+# 👋 Hi, I'm Ashik A
+🔐 Aspiring Cybersecurity Professional | 📚 Lifelong Learner
 
-## About Me
+---
 
-- 🎓 Completed Plus Two
-- 🔐 Learning Cybersecurity
-- 📚 Currently completing the Google Cybersecurity Certificate
-- 🐧 Learning Linux
-- 🐍 Learning Python
-- 🌐 Learning Networking
+## 🚀 About Me
 
-## Current Goals
+I'm on a mission to break into the cybersecurity field — one skill at a time.
+Currently sharpening my knowledge in Linux, Python, networking, and security fundamentals through the **Google Cybersecurity Professional Certificate**.
+I believe in learning by doing, and I use GitHub to document, share, and reflect on everything I build along the way.
 
-- Build strong cybersecurity skills
-- Create practical GitHub projects
-- Learn Linux and Python
-- Prepare for cybersecurity careers
+---
 
-## Skills
+## 📖 Currently Learning
+
+- 🔐 Cybersecurity Fundamentals
+- 🐧 Linux
+- 🐍 Python
+- 🌐 Networking
+- 🛠️ Git & GitHub
+
+---
+
+## 🎯 Current Goals
+
+- ✅ Complete the Google Cybersecurity Professional Certificate
+- 🗂️ Build a hands-on cybersecurity portfolio on GitHub
+- 💻 Deepen practical Linux and Python skills
+- 📝 Consistently document my learning journey
+- 🚪 Land my first entry-level cybersecurity opportunity
+
+---
+
+## 🛠️ Skills & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Projects
+---
 
-- Cybersecurity Notes
-- Linux for Cybersecurity
-- Python for Cybersecurity
-- Google Cybersecurity Certificate Notes
-- GitHub Complete Guide
+## 📂 Featured Projects
 
-## Contact
+| Project | Description |
+|---|---|
+| 🔐 Cybersecurity Notes | Key concepts, frameworks, and takeaways |
+| 🐧 Linux for Cybersecurity | Commands, tools, and practical exercises |
+| 🐍 Python for Cybersecurity | Scripts and automation projects |
+| 🌐 Networking Notes | Protocols, models, and fundamentals |
+| 📚 Google Cybersecurity Certificate Notes | My structured study notes |
+| 📖 GitHub Complete Guide | A beginner-friendly Git & GitHub reference |
 
-- Email: ashii.workmail@gmail.com
+---
+
+## 📈 2026 Goals
+
+- 🗺️ Complete my full cybersecurity learning roadmap
+- 🧱 Build multiple practical, portfolio-worthy GitHub projects
+- 🔧 Strengthen Linux and Python proficiency through real projects
+- 🏅 Earn additional industry-recognized certifications
+- 📋 Improve technical writing and documentation skills
+
+---
+
+## 📫 Connect With Me
+
+- 💻 GitHub: [@ashihh07](https://github.com/ashihh07)
+- 📧 Email: ashii.workmail@gmail.com
+---
+
+⭐ *Consistent effort beats overnight success — always learning, always building.*
