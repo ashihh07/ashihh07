@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ashik A
-🔐 Aspiring Cybersecurity Professional | 📚 Lifelong Learner
+🔐 Aspiring Cybersecurity Professional | 🎓 Recent Graduate | 📚 Lifelong Learner
 
 ---
 
@@ -41,19 +41,6 @@ I believe in learning by doing, and I use GitHub to document, share, and reflect
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🔐 Cybersecurity Notes | Key concepts, frameworks, and takeaways |
-| 🐧 Linux for Cybersecurity | Commands, tools, and practical exercises |
-| 🐍 Python for Cybersecurity | Scripts and automation projects |
-| 🌐 Networking Notes | Protocols, models, and fundamentals |
-| 📚 Google Cybersecurity Certificate Notes | My structured study notes |
-| 📖 GitHub Complete Guide | A beginner-friendly Git & GitHub reference |
-
----
-
 ## 📈 2026 Goals
 
 - 🗺️ Complete my full cybersecurity learning roadmap
@@ -68,6 +55,7 @@ I believe in learning by doing, and I use GitHub to document, share, and reflect
 
 - 💻 GitHub: [@ashihh07](https://github.com/ashihh07)
 - 📧 Email: ashii.workmail@gmail.com
+
 ---
 
 ⭐ *Consistent effort beats overnight success — always learning, always building.*
