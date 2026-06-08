@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ashik A
-🔐 Aspiring Cybersecurity Professional | 🎓 Recent Graduate | 📚 Lifelong Learner
+🔐 Aspiring Cybersecurity Professional | 📚 Lifelong Learner
 
 ---
 
