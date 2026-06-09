@@ -40,6 +40,24 @@ I believe in learning by doing, and I use GitHub to document, share, and reflect
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+🎓 Education
+QualificationDetails📘 Plus Two (Higher Secondary)Science Stream🔐 Google Cybersecurity Professional CertificateIn Progress — Course 8 of 9
+
+📜 Certifications In Progress
+
+🔐 Google Cybersecurity Professional Certificate — Course 8/9: Prepare for Cybersecurity Jobs
+
+✅ Foundations of Cybersecurity
+✅ Play It Safe: Manage Security Risks
+✅ Connect and Protect: Networks and Network Security
+✅ Tools of the Trade: Linux and SQL
+✅ Assets, Threats, and Vulnerabilities
+✅ Sound the Alarm: Detection and Response
+✅ Automate Cybersecurity Tasks with Python
+🔄 Put It to Work: Prepare for Cybersecurity Jobs (current)
+⏳ Final Course — Coming Soon
+
+---
 
 ## 📈 2026 Goals
 
