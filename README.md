@@ -76,16 +76,4 @@ QualificationDetails📘 Plus Two (Higher Secondary)Science Stream🔐 Google Cy
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashihh07&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashihh07&theme=github-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashihh07&layout=compact&theme=github_dark" />
-</p>
