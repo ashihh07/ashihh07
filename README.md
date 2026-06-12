@@ -1,79 +1,92 @@
-# 👋 Hi, I'm Ashik A
-🔐 Aspiring Cybersecurity Professional | 📚 Lifelong Learner
+<div align="center">
+
+# Hey, I'm Ashik 👋
+
+**Cybersecurity learner from Kerala, India**
+
+*I document everything I learn — the wins, the labs, the rabbit holes.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashihh07)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashii.workmail@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ashihh07&style=flat-square&color=0A66C2)](https://github.com/ashihh07)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## About me
 
-I'm on a mission to break into the cybersecurity field — one skill at a time.
-Currently sharpening my knowledge in Linux, Python, networking, and security fundamentals through the **Google Cybersecurity Professional Certificate**.
-I believe in learning by doing, and I use GitHub to document, share, and reflect on everything I build along the way.
+I got curious about how systems break before I ever thought about building them. That curiosity pulled me into cybersecurity — and I've been learning in public ever since. I'm a Plus Two Science graduate from Kerala, and I'm on my way to landing my first role in the field.
 
----
-
-## 📖 Currently Learning
-
-- 🔐 Cybersecurity Fundamentals
-- 🐧 Linux
-- 🐍 Python
-- 🌐 Networking
-- 🛠️ Git & GitHub
+Right now I'm focused on building a real portfolio: hands-on labs, notes I actually use, and projects I can point to.
 
 ---
 
-## 🎯 Current Goals
+## What I've completed
 
-- ✅ Complete the Google Cybersecurity Professional Certificate
-- 🗂️ Build a hands-on cybersecurity portfolio on GitHub
-- 💻 Deepen practical Linux and Python skills
-- 📝 Consistently document my learning journey
-- 🚪 Land my first entry-level cybersecurity opportunity
+🎓 **Google Cybersecurity Professional Certificate** — ✅ All 8 courses done
 
----
+<details>
+<summary>See all courses</summary>
 
-## 🛠️ Skills & Technologies
+| # | Course | Status |
+|---|--------|--------|
+| 1 | Foundations of Cybersecurity | ✅ Done |
+| 2 | Play It Safe: Manage Security Risks | ✅ Done |
+| 3 | Connect and Protect: Networks & Network Security | ✅ Done |
+| 4 | Tools of the Trade: Linux and SQL | ✅ Done |
+| 5 | Assets, Threats, and Vulnerabilities | ✅ Done |
+| 6 | Sound the Alarm: Detection and Response | ✅ Done |
+| 7 | Automate Cybersecurity Tasks with Python | ✅ Done |
+| 8 | Put It to Work: Prepare for Cybersecurity Jobs | ✅ Done |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-🎓 Education
-QualificationDetails📘 Plus Two (Higher Secondary)Science Stream🔐 Google Cybersecurity Professional CertificateIn Progress — Course 8 of 9
-
-📜 Certifications In Progress
-
-🔐 Google Cybersecurity Professional Certificate — Course 8/9: Prepare for Cybersecurity Jobs
-
-✅ Foundations of Cybersecurity
-✅ Play It Safe: Manage Security Risks
-✅ Connect and Protect: Networks and Network Security
-✅ Tools of the Trade: Linux and SQL
-✅ Assets, Threats, and Vulnerabilities
-✅ Sound the Alarm: Detection and Response
-✅ Automate Cybersecurity Tasks with Python
-🔄 Put It to Work: Prepare for Cybersecurity Jobs (current)
-⏳ Final Course — Coming Soon
+</details>
 
 ---
 
-## 📈 2026 Goals
+## What I've built so far
 
-- 🗺️ Complete my full cybersecurity learning roadmap
-- 🧱 Build multiple practical, portfolio-worthy GitHub projects
-- 🔧 Strengthen Linux and Python proficiency through real projects
-- 🏅 Earn additional industry-recognized certifications
-- 📋 Improve technical writing and documentation skills
-
----
-
-## 📫 Connect With Me
-
-- 💻 GitHub: [@ashihh07](https://github.com/ashihh07)
-- 📧 Email: ashii.workmail@gmail.com
+| Repo | Description |
+|------|-------------|
+| 📘 [github-complete-guide-2026](https://github.com/ashihh07/github-complete-guide-2026) | A beginner-friendly handbook covering Git fundamentals, version control, branching, pull requests, GitHub Pages, and open-source workflows |
+| 🔜 More coming soon | Labs, scripts, and security writeups as I keep going |
 
 ---
 
+## Tools & skills I've picked up
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-212C42?style=flat-square&logo=splunk&logoColor=white)
+
+---
+
+## GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashihh07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashihh07&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ashihh07&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+---
+
+## What's next
+
+I've finished the Google cert and I'm figuring out my next step — whether that's CompTIA Security+, more hands-on labs, or diving deeper into Python for security. Follow along and you'll see it happen here.
+
+---
+
+<div align="center">
+
+*Thanks for stopping by — feel free to connect on LinkedIn if you're on a similar journey!*
+
+</div>
