@@ -49,7 +49,6 @@ Right now I'm focused on building a real portfolio: hands-on labs, notes I actua
 | Repo | Description |
 |------|-------------|
 | 📘 [github-complete-guide-2026](https://github.com/ashihh07/github-complete-guide-2026) | A beginner-friendly handbook covering Git fundamentals, version control, branching, pull requests, GitHub Pages, and open-source workflows |
-|------|-------------|
 | 🐧 [linux-for-beginners](https://github.com/ashihh07/linux-for-beginners) | A complete beginner-friendly Linux guide covering terminal navigation, files, permissions, package management, networking, shell scripting, system administration, and real-world Linux skills |
 
 ---
