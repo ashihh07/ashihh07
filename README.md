@@ -87,6 +87,6 @@ I've finished the Google cert and I'm figuring out my next step — whether that
 
 <div align="center">
 
-*Thanks for stopping by — feel free to connect on LinkedIn if you're on a similar journey!*
+*Thanks for stopping by — feel free to connect on LinkedIn if you're on a similar journey!* 
 
 </div>
