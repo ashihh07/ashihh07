@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hey, I'm Ashik 👋
-
 **Cybersecurity learner from Kerala, India**
 
 *I document everything I learn — the wins, the labs, the rabbit holes.*
@@ -16,9 +15,7 @@
 
 ## About me
 
-I got curious about how systems break before I ever thought about building them. That curiosity pulled me into cybersecurity — and I've been learning in public ever since. I'm a Plus Two Science graduate from Kerala, and I'm on my way to landing my first role in the field.
-
-Right now I'm focused on building a real portfolio: hands-on labs, notes I actually use, and projects I can point to.
+I got curious about how systems break before I ever thought about building them — that's what pulled me into cybersecurity. I'm a Plus Two Science graduate from Kerala, currently working toward my first role in the field, and I'm building my portfolio in the open: hands-on labs, notes I actually use, and projects I can point to.
 
 ---
 
@@ -48,8 +45,8 @@ Right now I'm focused on building a real portfolio: hands-on labs, notes I actua
 
 | Repo | Description |
 |------|-------------|
-| 📘 [github-complete-guide-2026](https://github.com/ashihh07/github-complete-guide-2026) | A beginner-friendly handbook covering Git fundamentals, version control, branching, pull requests, GitHub Pages, and open-source workflows |
-| 🐧 [linux-for-beginners](https://github.com/ashihh07/linux-for-beginners) | A complete beginner-friendly Linux guide covering terminal navigation, files, permissions, package management, networking, shell scripting, system administration, and real-world Linux skills |
+| 📘 [github-complete-guide-2026](https://github.com/ashihh07/github-complete-guide-2026) | A beginner-friendly handbook on Git fundamentals, version control, branching, pull requests, GitHub Pages, and open-source workflows |
+| 🐧 [linux-for-beginners](https://github.com/ashihh07/linux-for-beginners) | A complete beginner-friendly Linux guide covering terminal navigation, files, permissions, package management, networking, shell scripting, and system administration |
 
 ---
 
@@ -81,12 +78,12 @@ Right now I'm focused on building a real portfolio: hands-on labs, notes I actua
 
 ## What's next
 
-I've finished the Google cert and I'm figuring out my next step — whether that's CompTIA Security+, more hands-on labs, or diving deeper into Python for security. Follow along and you'll see it happen here.
+With the Google cert done, I'm deciding on my next step — CompTIA Security+, more hands-on labs, or going deeper into Python for security. Follow along to see it happen here.
 
 ---
 
 <div align="center">
 
-*Thanks for stopping by — feel free to connect on LinkedIn if you're on a similar journey!* 
+*Thanks for stopping by — feel free to connect on LinkedIn if you're on a similar journey!*
 
 </div>
