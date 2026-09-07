@@ -1,11 +1,13 @@
 <div align="center">
 
 # Hey, I'm Ashik 👋
+
 **Cybersecurity learner from Kerala, India**
 
 *I document everything I learn — the wins, the labs, the rabbit holes.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashihh07)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ashihh07)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashii.workmail@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ashihh07&style=flat-square&color=0A66C2)](https://github.com/ashihh07)
 
@@ -15,7 +17,7 @@
 
 ## About me
 
-I got curious about how systems break before I ever thought about building them — that's what pulled me into cybersecurity. I'm a Plus Two Science graduate from Kerala, currently working toward my first role in the field, and I'm building my portfolio in the open: hands-on labs, notes I actually use, and projects I can point to.
+I got curious about how systems break before I ever thought about building them — that curiosity pulled me into cybersecurity. I'm a Plus Two Science graduate from Kerala, working toward my first role in the field, and I'm building my portfolio in the open: real tools, hands-on labs, and notes I actually use.
 
 ---
 
@@ -41,16 +43,26 @@ I got curious about how systems break before I ever thought about building them 
 
 ---
 
-## What I've built so far
+## Projects
 
 | Repo | Description |
 |------|-------------|
-| 📘 [github-complete-guide-2026](https://github.com/ashihh07/github-complete-guide-2026) | A beginner-friendly handbook on Git fundamentals, version control, branching, pull requests, GitHub Pages, and open-source workflows |
+| 🔐 [ssh-auth-monitor](https://github.com/ashihh07/ssh-auth-monitor) | Real-time SSH auth log monitor — tails auth logs, detects brute-force attempts, flags repeated failed logins from the same IP, and logs alerts to CSV |
+| 🌐 [network-connection-watcher](https://github.com/ashihh07/network-connection-watcher) | Real-time network connection watcher — flags suspicious ports and possible beaconing behavior, logs alerts to CSV |
 | 🐧 [linux-for-beginners](https://github.com/ashihh07/linux-for-beginners) | A complete beginner-friendly Linux guide covering terminal navigation, files, permissions, package management, networking, shell scripting, and system administration |
+| 📘 [github-complete-guide-2026](https://github.com/ashihh07/github-complete-guide-2026) | A beginner-friendly handbook on Git fundamentals, version control, branching, pull requests, GitHub Pages, and open-source workflows |
 
 ---
 
-## Tools & skills I've picked up
+## Currently learning
+
+🔐 **TryHackMe** — Working through hands-on labs and CTF-style rooms
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ashihh07.png)](https://tryhackme.com/p/ashihh07)
+
+---
+
+## Tools & skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -73,12 +85,6 @@ I got curious about how systems break before I ever thought about building them 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ashihh07&theme=tokyonight&hide_border=true" height="160"/>
 </div>
-
----
-
-## What's next
-
-With the Google cert done, I'm deciding on my next step — CompTIA Security+, more hands-on labs, or going deeper into Python for security. Follow along to see it happen here.
 
 ---
 
