@@ -1,55 +1,95 @@
-# hey, i'm ashik 👋
+<div align="center">
 
-people call me GG. i'm an aspiring SOC analyst from kerala, india.
+# Hey, I'm Ashik 👋
 
-i learn security by building things. small tools, beginner guides, practice labs, all in the open on github. google cybersecurity certified, and looking for an entry-level SOC / security analyst role.
+**Cybersecurity learner from Kerala, India**
 
-<br>
+*I document everything I learn — the wins, the labs, the rabbit holes.*
 
-## stuff i've built
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashihh07)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ashihh07)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashii.workmail@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ashihh07&style=flat-square&color=0A66C2)](https://github.com/ashihh07)
 
-| project | what it is |
-|---|---|
-| [phishing-email-analyzer](https://github.com/ashihh07/phishing-email-analyzer) | python tool that triages `.eml` files. checks headers, SPF/DKIM/DMARC, links and attachments, then gives a risk score |
-| [linux-for-beginners](https://github.com/ashihh07/linux-for-beginners) | 12-chapter linux guide for people starting from zero. pdf chapters + repo |
-| [basic-python-for-beginners](https://github.com/ashihh07/basic-python-for-beginners) | 11-chapter core python guide, same style as the linux one |
-| [ssh-auth-log-monitor](https://github.com/ashihh07/ssh-auth-log-monitor) | watches auth logs in real time and flags suspicious login activity |
-| [network-connection-watcher](https://github.com/ashihh07/network-connection-watcher) | real-time watcher that flags unusual ports and connections |
-| [ioc-lookup-tool](https://github.com/ashihh07/ioc-lookup-tool) | cli that checks IPs and file hashes against AbuseIPDB and VirusTotal |
-| [f1-race-recap](https://github.com/ashihh07/f1-race-recap) | animated terminal race summaries (podium, grid, standings). built for screen recording |
+</div>
 
-also working on **F1 Live**, a live race tracker with fastapi, postgres and react. not security, just fun.
+---
 
-<br>
+## About me
 
-## what i work with
+I got curious about how systems break before I ever thought about building them — that curiosity pulled me into cybersecurity. I'm a Plus Two Science graduate from Kerala, working toward my first role in the field, and I'm building my portfolio in the open: real tools, hands-on labs, and notes I actually use.
 
-![Linux](https://img.shields.io/badge/Linux-222?style=flat&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-222?style=flat&logo=python&logoColor=3776AB)
-![Git](https://img.shields.io/badge/Git-222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-222?style=flat&logo=github&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-222?style=flat&logo=wireshark&logoColor=1679A7)
-![SQL](https://img.shields.io/badge/SQL-222?style=flat&logo=postgresql&logoColor=4169E1)
-![SIEM](https://img.shields.io/badge/SIEM-222?style=flat)
-![NIST](https://img.shields.io/badge/NIST_framework-222?style=flat)
+---
 
-<br>
+## What I've completed
 
-## github stats
+🎓 **Google Cybersecurity Professional Certificate** — ✅ All 8 courses done
 
-<p>
-  <img height="150" alt="stats" src="https://github-readme-stats.vercel.app/api?username=ashihh07&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashihh07&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<details>
+<summary>See all courses</summary>
 
-<img alt="streak" src="https://streak-stats.demolab.com?user=ashihh07&theme=tokyonight&hide_border=true" />
+| # | Course | Status |
+|---|--------|--------|
+| 1 | Foundations of Cybersecurity | ✅ Done |
+| 2 | Play It Safe: Manage Security Risks | ✅ Done |
+| 3 | Connect and Protect: Networks & Network Security | ✅ Done |
+| 4 | Tools of the Trade: Linux and SQL | ✅ Done |
+| 5 | Assets, Threats, and Vulnerabilities | ✅ Done |
+| 6 | Sound the Alarm: Detection and Response | ✅ Done |
+| 7 | Automate Cybersecurity Tasks with Python | ✅ Done |
+| 8 | Put It to Work: Prepare for Cybersecurity Jobs | ✅ Done |
 
-<br>
+</details>
 
-## find me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-222?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/YOUR-HANDLE)
+## Projects
 
-<br>
+| Repo | Description |
+|------|-------------|
+| 🔐 [ssh-auth-monitor](https://github.com/ashihh07/ssh-auth-monitor) | Real-time SSH auth log monitor — tails auth logs, detects brute-force attempts, flags repeated failed logins from the same IP, and logs alerts to CSV |
+| 🌐 [network-connection-watcher](https://github.com/ashihh07/network-connection-watcher) | Real-time network connection watcher — flags suspicious ports and possible beaconing behavior, logs alerts to CSV |
+| 🐧 [linux-for-beginners](https://github.com/ashihh07/linux-for-beginners) | A complete beginner-friendly Linux guide covering terminal navigation, files, permissions, package management, networking, shell scripting, and system administration |
+| 📘 [github-complete-guide-2026](https://github.com/ashihh07/github-complete-guide-2026) | A beginner-friendly handbook on Git fundamentals, version control, branching, pull requests, GitHub Pages, and open-source workflows |
 
-*i write guides because explaining something is the fastest way to actually learn it.*
+---
+
+## Currently learning
+
+🔐 **TryHackMe** — Working through hands-on labs and CTF-style rooms
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ashihh07.png)](https://tryhackme.com/p/ashihh07)
+
+---
+
+## Tools & skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-212C42?style=flat-square&logo=splunk&logoColor=white)
+
+---
+
+## GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashihh07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashihh07&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ashihh07&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for stopping by — feel free to connect on LinkedIn if you're on a similar journey!*
+
+</div>
