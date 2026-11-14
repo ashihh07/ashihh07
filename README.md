@@ -2,7 +2,7 @@
 
 # Hey, I'm Ashik 👋
 
-**Cybersecurity learner from Kerala, India**
+**Entry-level SOC Analyst candidate · Kerala, India**
 
 *I document everything I learn — the wins, the labs, the rabbit holes.*
 
@@ -17,16 +17,21 @@
 
 ## About me
 
-I got curious about how systems break before I ever thought about building them — that curiosity pulled me into cybersecurity. I'm a Plus Two Science graduate from Kerala, working toward my first role in the field, and I'm building my portfolio in the open: real tools, hands-on labs, and notes I actually use.
+I got curious about how systems break before I ever thought about building them, and that curiosity pulled me into cybersecurity. I've completed the Google Cybersecurity Professional Certificate and the Certified LLM Security Expert (CLLMSE), and I'm now in a 6-month cybersecurity program at Techmindz, Infopark Kochi.
+
+I build small Python tools for SOC-style detection, like an SSH brute-force monitor and a network connection watcher, and I'm aiming for my first SOC Analyst role. Everything I learn goes up here.
 
 ---
 
-## What I've completed
+## Certifications
 
-🎓 **Google Cybersecurity Professional Certificate** — ✅ All 8 courses done
+| Certification | Issuer | Status |
+|---------------|--------|--------|
+| Google Cybersecurity Professional Certificate | Google / Coursera | ✅ Completed |
+| Certified LLM Security Expert (CLLMSE) | Red Team Leaders | ✅ Completed |
 
 <details>
-<summary>See all courses</summary>
+<summary>Google Cybersecurity Certificate: all 8 courses</summary>
 
 | # | Course | Status |
 |---|--------|--------|
@@ -47,8 +52,8 @@ I got curious about how systems break before I ever thought about building them 
 
 | Repo | Description |
 |------|-------------|
-| 🔐 [ssh-auth-monitor](https://github.com/ashihh07/ssh-auth-monitor) | Real-time SSH auth log monitor — tails auth logs, detects brute-force attempts, flags repeated failed logins from the same IP, and logs alerts to CSV |
-| 🌐 [network-connection-watcher](https://github.com/ashihh07/network-connection-watcher) | Real-time network connection watcher — flags suspicious ports and possible beaconing behavior, logs alerts to CSV |
+| 🔐 [ssh-auth-monitor](https://github.com/ashihh07/ssh-auth-monitor) | Real-time SSH auth log monitor. Tails auth logs, detects brute-force attempts, flags repeated failed logins from the same IP, and logs alerts to CSV |
+| 🌐 [network-connection-watcher](https://github.com/ashihh07/network-connection-watcher) | Real-time network connection watcher. Flags suspicious ports and possible beaconing behavior, and logs alerts to CSV |
 | 🐧 [linux-for-beginners](https://github.com/ashihh07/linux-for-beginners) | A complete beginner-friendly Linux guide covering terminal navigation, files, permissions, package management, networking, shell scripting, and system administration |
 | 📘 [github-complete-guide-2026](https://github.com/ashihh07/github-complete-guide-2026) | A beginner-friendly handbook on Git fundamentals, version control, branching, pull requests, GitHub Pages, and open-source workflows |
 
@@ -56,7 +61,8 @@ I got curious about how systems break before I ever thought about building them 
 
 ## Currently learning
 
-🔐 **TryHackMe** — Working through hands-on labs and CTF-style rooms
+- 🎓 **Techmindz, Infopark Kochi**: 6-month cybersecurity program
+- 🔐 **TryHackMe**: hands-on labs and CTF-style rooms
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ashihh07.png)](https://tryhackme.com/p/ashihh07)
 
@@ -90,7 +96,6 @@ I got curious about how systems break before I ever thought about building them 
 
 <div align="center">
 
-*Thanks for stopping by — feel free to connect on LinkedIn if you're on a similar journey!*
+*Thanks for stopping by. Feel free to connect on LinkedIn if you're on a similar journey!*
 
 </div>
-
